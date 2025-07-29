@@ -1,0 +1,112 @@
+FOLW Code Licence 1.1
+Free and Open and Libre World Code Licence
+
+PREAMBLE
+
+This licence embodies the FOLW philosophy: code should be free to use, open to study, and available for monetization without judgment. We believe in practical freedom - sharing knowledge while respecting creators' right to earn.
+
+DEFINITIONS
+
+"Program" - any work licensed under this Licence.
+
+"You" - the person or entity exercising rights under this Licence.
+
+"Contributor" - any person or entity that creates, modifies, or contributes to the Program, including original authors and creators of derivative works.
+
+"FOLW Movement" - the collective of all users of FOLW licenses, all authors of FOLW licenses, and all active participants in FOLW-licensed projects.
+
+"Source Code" - code in the preferred form for editing, including human-readable source code, not obfuscated, minified, or binary-only forms.
+
+"Distribution" - making available to other parties.
+
+TERMS
+
+1. Granted Rights
+
+You are granted rights to:
+- Use the program for any purpose
+- Study and modify the source code
+- Distribute copies of the program
+- Create and distribute derivative works
+
+2. Distribution Conditions
+
+When distributing the program or its modifications:
+- Provide access to source code
+- Preserve authorship information
+- Indicate changes made
+- Include this licence text
+
+Source code may be provided through public repositories, accompany the distribution, or be available upon request within 30 days (or timeframe specified by requestor between 7 days to 6 months, defaulting to 30 days if unspecified).
+
+3. Commercial Rights
+
+Permitted activities:
+- Sale of physical media containing the program
+- Charging for installation and configuration services
+- Providing paid technical support
+- Conducting commercial training
+- Including in commercial products
+- Using in commercial services
+
+No additional permissions required.
+
+4. Copyright
+
+- Preserve copyright notices
+- Your contributions are protected by your copyright
+
+5. Patent Protection
+
+Each contributor grants you a perpetual, worldwide, non-exclusive, no-charge, royalty-free patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Program and derivative works, but only for those patent claims licensable by such contributor that are necessarily infringed by their contribution(s) alone or by combination of their contribution(s) with the Program.
+
+This patent license applies from the time the contribution is added to the Program and continues for the duration of copyright in the Program. If you initiate patent litigation against any contributor alleging that the Program or any derivative work constitutes patent infringement, then your patent rights under this license terminate as of the date such litigation is filed.
+
+6. No Warranty
+
+Program provided "as is" without warranties of any kind. Authors bear no responsibility for potential issues during use.
+
+7. Dispute Resolution
+
+Upon violation of terms:
+- Peaceful settlement is preferred
+- Opportunity for correction within 30 days is provided
+- Licence may be restored after violation remediation
+
+8. Enforcement Mechanism
+
+Licence violations may be reported by:
+- Original copyright holders
+- Contributors
+- FOLW Movement representatives
+
+Enforcement process:
+1. Written notice to violator specifying breach
+2. 30-day cure period for remediation
+3. Automatic licence termination if not cured
+4. Possible restoration upon compliance demonstration
+
+9. Licence Updates
+
+New versions will preserve core principles. You may specify exact version or allow updates.
+
+10. Governing Law
+
+This License shall be governed by and construed in accordance with the laws of the jurisdiction where the current project maintainer is domiciled, as specified in the project's official documentation or repository. If the maintainer is unavailable, incapacitated, or not designated, governing law shall be determined by the jurisdiction of: (1) a successor maintainer previously designated by the project, or (2) the most active contributor based on code contributions over the preceding 12 months, or (3) the original copyright holder. If local law prohibits choice of jurisdiction, local copyright law applies. International disputes preferably resolved through mediation.
+
+PHILOSOPHY
+
+FOLW movement supports balance between openness and practicality. Earning from free software through services and support promotes sustainable development of open projects.
+
+Principles:
+- Openness without coercion
+- Commercial freedom without restrictions
+- Cooperation over confrontation
+- Practicality over ideology
+
+---
+
+Copyright © [Year] [Author Name]
+
+Licensed under FOLW Code Licence 1.1
+FOLW Movement - Free and Open and Libre World
