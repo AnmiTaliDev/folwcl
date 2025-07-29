@@ -2,3 +2,5 @@ LICENSE linguist-language=Text linguist-detectable=true
 LICENSE.txt linguist-language=Text linguist-detectable=true
 LICENCE linguist-language=Text linguist-detectable=true
 LICENCE.txt linguist-language=Text linguist-detectable=true
+
+*.md linguist-language=Markdown linguist-detectable=true
